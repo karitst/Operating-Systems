@@ -1,0 +1,6 @@
+Windows operating system has some functions: 
+building a user interface,
+managing different computer resources,
+building an Internet connection,
+updating operating system software.
+
