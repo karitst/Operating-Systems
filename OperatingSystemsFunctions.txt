@@ -3,4 +3,9 @@ building a user interface,
 managing different computer resources,
 building an Internet connection,
 updating operating system software,
-controlling a network and administering security.
+controlling a network and administering security
+providing file and disk management tools,
+managing memory,
+coordinating tasks,
+monitoring performance,
+configuring devices,
